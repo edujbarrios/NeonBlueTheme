@@ -25,7 +25,7 @@ To apply the Neon Blue Dark Theme to Visual Studio Code manually (As it hasn't b
 2. Go to the "Settings" by clicking on the gear icon in the lower-left corner or by pressing `Ctrl + ,` (`Cmd + ,` at mac devices).
 3. In the search bar at the top, type "settings.json" and select "Preferences: Open Settings (JSON)" from the dropdown.
 4. In the opened "settings.json" file, locate the sections for `"workbench.colorCustomizations"` and `"editor.tokenColorCustomizations"`.
-5. Replace the existing content in these sections with the content from the file ./themes/neonbluetheme.json.
+5. Replace the existing content in these sections with the content from the file `./themes/NeonBlueTheme.json`.
 6. Save the "settings.json" file `(Ctrl + S)` (`(Cmd + S)` at mac devices) Or simply go to `File>Save` at the top menu.
 7. Close and reopen Visual Studio Code for the changes to take effect.
 
