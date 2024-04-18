@@ -2,14 +2,32 @@
 
 <img src="./assets/logo.png" width="100px" alt="logo">
 
-Este es un tema personalizado basado en GitHub Dark para Visual Studio Code.
+This is a custom theme based on neon blue I designed for myself and which I been using for the past 3 years.
 
-## Descripción
+`Recently, due to popular demand, I have decided to release this personal theme on GitHub. It will also soon be available on the Visual Studio Code Marketplace.`
 
-Neon Blue Dark Theme es un tema personalizado para Visual Studio Code (Personal y no publicado en el marketplace de VSC) que está inspirado en el popular tema de GitHub Dark, pero con algunas modificaciones y ajustes personalizados para hacerlo más atractivo, basado en colores neon tipo #ff00e1 para mejorar la facilidad y visibilidad de elementos a la hora de programar.
+## Description
 
-## Captura de Pantalla
+The Neon Blue Dark Theme is a tailored theme for Visual Studio Code, inspired by the popular GitHub Dark Theme. It features custom modifications aimed at improving visual appeal and usability. The theme incorporates neon-like colors, such as `#00ffe1`, to enhance the visibility and ease of use during programming sessions.
 
-Aquí tienes una vista previa del tema aplicado en Visual Studio Code:
+## Screenshot
 
-![Captura de Pantalla del Tema](sample_image.png)
+Here is a preview of the theme applied in Visual Studio Code:
+
+![Screenshot of the Theme](./images/sample_image.png)
+
+## Note:
+
+In my original version, the terminal is in encoded white. However, to complete the experience with a neon blue style `#00ffe1`, you should modify the directive:
+
+
+```json
+"terminal.foreground": "#ffffff"
+```
+and switch it to:
+
+```json
+"terminal.foreground": "#00ffe1"
+```
+
+
