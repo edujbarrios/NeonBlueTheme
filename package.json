@@ -10,7 +10,7 @@
     "categories": [
       "Themes"
     ],
-    "icon": "./assets/logo128.png",
+    "icon": "assets/logo128.png",
     "galleryBanner": {
       "color": "#00ffe1",
       "theme": "dark"
@@ -20,7 +20,7 @@
         {
           "label": "Neon Dark",
           "uiTheme": "vs-dark",
-          "path": "./Themes/neon-dark.json"
+          "path": "Themes/NeonDark.json"
         }
       ]
     },
