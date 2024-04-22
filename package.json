@@ -1,18 +1,18 @@
 {
-    "name": "neon-dark-theme",
-    "displayName": "Neon Dark Theme",
-    "version": "1.0.0",
+    "name": "NeONDarkTheme",
+    "displayName": "NeONDarkTheme",
+    "version": "2.0.0",
     "description": "The Neon Dark Theme is a tailored theme for Visual Studio Code, inspired by the popular GitHub Dark Theme. It features custom modifications aimed at improving visual appeal and usability. The theme incorporates neon-like colors, such as `#00ffe1`, to enhance the visibility and ease of use during programming sessions.",
-    "publisher": "Eduardo José Barrios García",
+    "publisher": "EduardoJBarrios",
     "engines": {
-      "vscode": "^1.0.0"
+      "vscode": "2.0.0"
     },
     "categories": [
       "Themes"
     ],
     "icon": "assets/logo128.png",
     "galleryBanner": {
-      "color": "#00ffe1",
+      "color": "#02665a",
       "theme": "dark"
     },
     "contributes": {
